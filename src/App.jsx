@@ -1,11 +1,11 @@
 import React, {useEffect} from "react";
 import Navbar from "./Components/Navbar";
 import Home from "./Components/Home";
-import About from "./components/About";
-import Menu from "./components/Menu";
-import Footer from "./components/Footer";
-import Dishes from "./components/Dishes";
-import Review from "./components/Review";
+import About from "./Components/About";
+import Menu from "./Components/Menu";
+import Footer from "./Components/Footer";
+import Dishes from "./Components/Dishes";
+import Review from "./Components/Review";
 import aos from "aos";
 import "aos/dist/aos.css";
 
